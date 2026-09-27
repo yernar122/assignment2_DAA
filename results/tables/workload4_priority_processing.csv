@@ -1,0 +1,9 @@
+n,phase,avg_time_ms,comparisons,theoretical_complexity
+100,insert_all,0.009134,197,O(n log n) upper bound; O(log n) per insert
+100,extract_all,0.006642,845,Theta(n log n) total; O(log n) per extract
+1000,insert_all,0.056454,2241,O(n log n) upper bound; O(log n) per insert
+1000,extract_all,0.095932,14978,Theta(n log n) total; O(log n) per extract
+10000,insert_all,0.482678,22602,O(n log n) upper bound; O(log n) per insert
+10000,extract_all,0.837155,216531,Theta(n log n) total; O(log n) per extract
+100000,insert_all,1.645790,227662,O(n log n) upper bound; O(log n) per insert
+100000,extract_all,8.105470,2831463,Theta(n log n) total; O(log n) per extract

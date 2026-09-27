@@ -1,0 +1,9 @@
+n,structure,avg_time_ms,comparisons,theoretical_complexity
+100,Dynamic Array,0.053619,94384,Theta(n) average/worst search
+100,Linked List,0.123419,94384,Theta(n) average/worst search
+1000,Dynamic Array,0.243903,952021,Theta(n) average/worst search
+1000,Linked List,1.165122,952021,Theta(n) average/worst search
+10000,Dynamic Array,2.317057,9485303,Theta(n) average/worst search
+10000,Linked List,11.230645,9485303,Theta(n) average/worst search
+100000,Dynamic Array,22.871374,95047696,Theta(n) average/worst search
+100000,Linked List,114.657863,95047696,Theta(n) average/worst search

@@ -1,0 +1,9 @@
+n,structure,avg_time_ms,element_accesses,theoretical_complexity
+100,Dynamic Array,0.331587,10000,Theta(1) per get
+100,Linked List,0.699926,511327,Theta(n) per get
+1000,Dynamic Array,0.174036,10000,Theta(1) per get
+1000,Linked List,5.381037,5021262,Theta(n) per get
+10000,Dynamic Array,0.044538,10000,Theta(1) per get
+10000,Linked List,59.353122,50180278,Theta(n) per get
+100000,Dynamic Array,0.029484,10000,Theta(1) per get
+100000,Linked List,576.971136,504940938,Theta(n) per get
